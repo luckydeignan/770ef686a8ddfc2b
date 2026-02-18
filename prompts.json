@@ -1,0 +1,4 @@
+{
+    "parsing_prompt": "You are a helpful assistant that parses text into a structured format.",
+    "resume_summarizer_prompt": "Your job is to summarize specific parts of a resume given some instructions and the actual resume text. The instructions will specify which parts of the resume to summarize and the length that your response should be.\nThere may be some information at the beginning of the instructions related to a `crew manifest`, ignore this.\nHere are the instructions {instructions} and the resume text {resume_text}.\nPlease closely follow any length and/or content requirements specified in the instructions."
+}

@@ -1,0 +1,52 @@
+Lachlan “Lucky” Deignan
+532 Beacon St, Boston MA, 02215      ldeignan@mit.edu      GitHub     LinkedIn     312-447-1252
+
+EDUCATION
+Massachusetts Institute of Technology (MIT)			  		      	           	           June 2026
+Bachelor of Science in Computer Science and Neuroscience; GPA: 4.8/5.0
+Relevant Coursework: Deep Learning, Affective Computing, System Design, Machine Learning, Software Construction, Website Development, Python Programming, Algorithms and Data Structures, Behavioral Economics, Microeconomics
+
+WORK EXPERIENCE
+Incoming Part-Time Software Engineer							February 2026 – Present
+Sanara Health													Remote
+
+AI/ML Engineer							  	  	        	       	June 2025 – August 2025
+Chewy													        Boston, MA
+Engineered multi-modal content analysis pipeline using Gemini of 20,000+ videos from 30 influencers. 
+Built tree-based, linear regression & neural network models along with engineering 100+ input features to achieve 90% direction accuracy in predicting average engagement rate (.45 nRMSE) & views (.57 nRMSE) trends.
+Incorporated models into Flask API on AWS EC2 with 100% uptime to facilitate integration with internal company tools.
+ 
+Part-Time Software & ML Engineer 							       	   January 2025 – Present
+MIT McGovern Institute for Brain Research									    Cambridge, MA
+Employed MERN (MongoDB, Express.js, React, Node.js) to create 10+ novel functionalities for educational web applications.
+Integrated TTS models to enable text-to-voice & word-highlight features, improving reading efficiency by 50%.
+
+Data Analyst and Software Developer							      	 June 2024 - August 2024
+UAB Computer Vision Center	   		   						                Barcelona, Spain
+Developed GUI interface with Tkinter to build eye-tracking experiment with heatmap visualizations and OCR clustering analysis tools. Utilized Matplotlib, SciPy, Scikit-learn libraries to interpret and analyze raw data to be used for further ML research and development.
+Achieved 90%+ clustering purity for OCR regions in image datasets; interface adopted by researchers for 10+ future studies.
+
+
+LEADERSHIP AND PROJECTS
+Automating Annual/Leasing Certification Compliance for Affordable Housing		January 2026-Present
+Identified high-impact pain-point via PMR interviews with 50+ Property/Asset Manager and Housing Assistants.
+Developing full-stack application to reduce time-to-complete leasing certifications by 85%
+Front-end on Next.js, connected to backend via AWS CDK. Utilizing Gateway, Cognito, S3 & Lambda services.
+
+MIT Varsity NCAA DIII Football Team						August 2022-December 2025
+Varsity Team Captain – unanimously voted by peers. Started all 36 games but one (due to injury) through four years. 
+College awards: 3x 1st Team All-Conference, Team Defensive MVP of the Year, 2nd Team All-Conference, MIT Office of the First Year Award for Athletics, Team Defensive Rookie of the Year, 4x Academic All-Conference, 2x CSC All-District.
+
+Contextually and Temporally Adaptive AI Music for Reading Focus		September 2025-December 2025
+● 	Detected emotional shifts in 100+ pieces of text using Valence/Arousal predictors along with Hierarchical Clustering methods.
+Created smooth musical transitions to accompany emotional shifts in text via latent space interpolation using MusicVAE.
+Preliminary results indicate 33% improvement in perceived music-to-text alignment from readers.
+
+Improving Knowledge Distillation via Teacher Assistant Snapshot Ensembling		November 2025-Present
+Introduced novel deep learning compression technique, synthesizing distinct methods for efficient training into a single pipeline
+Final results indicated >5% increase in performance on CIFAR-100 Dataset relative to standard distillation methods.
+
+Applying Embedding Bottlenecks to Latent Diffusion Model			     August 2024-December 2024
+Constructed dataset over 500 novel caption-based vector embeddings, employing Gemini and Huggingface open-source models.
+Trained multimodal regression models on this dataset to introduce novel bottleneck to existing image reconstruction pipeline.
+Achieved 67% CLIP score similarity in images reconstructed via this information bottleneck pipeline.
