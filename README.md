@@ -1,5 +1,7 @@
 # 770ef686a8ddfc2b
-Neon Health Coding Challenge
+Neon Health Coding Challenge. 
+
+Main file to run is playground.py
 
 ## Process
 In the beginning, I designed the high-level system of the various functions I was going to implement (handler, parser, specific_handlers for each question_type). The general process in implementing each of these functions was very iterative. I handled one question type (identification, computation, etc) at a time, and the implementation of my function was based on the logged requests from the websocket during this process.
